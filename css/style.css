@@ -1,0 +1,49 @@
+
+.container{
+   width: 100%;
+   height: 200px;
+}
+.list{
+    float: right;
+}
+.text{
+    width: 40%;
+    display: inline-block;
+    margin: 20px;
+    padding-top: 0px;
+}
+.btn{
+    display: block;
+    background-color:chocolate;
+    color:greenyellow
+}
+h2{
+    padding-top: 0;
+    display: inline-block;
+}
+p{
+    width: 100%;
+    display: inline-block;
+}
+li {
+	display: inline-block;
+    padding: 10px;
+    padding-top: 100px;
+}
+ul{
+    list-style: none;
+    height: 100px;
+    
+}
+
+img{
+    margin: 20;
+
+}
+a{
+    text-decoration: none;
+    color: chocolate;
+}
+a:hover{
+    color:forestgreen
+}
